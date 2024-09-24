@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/insomnia-animation/static/css/main.9a88f00c.css",
+    "main.js": "/insomnia-animation/static/js/main.1ca493fb.js",
+    "static/js/453.ed3810f9.chunk.js": "/insomnia-animation/static/js/453.ed3810f9.chunk.js",
+    "static/media/image.svg": "/insomnia-animation/static/media/image.54f9b610481c3052018271867d8cffea.svg",
+    "index.html": "/insomnia-animation/index.html",
+    "main.9a88f00c.css.map": "/insomnia-animation/static/css/main.9a88f00c.css.map",
+    "main.1ca493fb.js.map": "/insomnia-animation/static/js/main.1ca493fb.js.map",
+    "453.ed3810f9.chunk.js.map": "/insomnia-animation/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a88f00c.css",
+    "static/js/main.1ca493fb.js"
+  ]
+}
